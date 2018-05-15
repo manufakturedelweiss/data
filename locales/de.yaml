@@ -1,22 +1,22 @@
-ahoyPatron: Ahoy Patron! TODO
-allTheBest: 'All the best, TODO'
-authorCommentedOnYourProfilePage: '{author} commented on your profile page. TODO'
-authorPostedAReply: '{author} posted a reply to your comment: TODO'
-canWeRemainFriends: Can we remain friends? TODO
-chatOnGitter: Chat on Gitter TODO
-confirmEmailAddress: Confirm E-mail address TODO
-credits: Made by Joost De Cock & contributors with the financial support of our patrons ❤️ TODO
-founderAndMaintainer: Founder and maintainer of the freesewing project TODO
-freesewing: Freesewing TODO
-github: GitHub TODO
-goodbye: Goodbye TODO
-happyNewUser: We're so happy you decided to join the freesewing community. TODO
-helloUsername: 'Hello {username} TODO'
-iRespectYourDecisionToLeave: 'I respect your decision to leave, and won''t bother you again. TODO'
-ifThatDoesntWorkCopyPaste: 'If that doesn''t work, you can copy and paste the link in your browser. TODO'
-instagram: Instagram TODO
-itSeemsYouForgotYourPassword: It seems your forgot your password. TODO
-newComment: New comment TODO
+ahoyPatron: Ahoy Patron!
+allTheBest: 'Alles Gute,'
+authorCommentedOnYourProfilePage: '{author} hat einen Kommentar auf deiner Profilseite hinterlassen.'
+authorPostedAReply: '{author} hat eine Antwort auf deinen Kommentar gepostet:'
+canWeRemainFriends: Können wir Freunde bleiben?
+chatOnGitter: Chatte bei Gitter
+confirmEmailAddress: Bestätige deine E-mail Adresse
+credits: Made by Joost De Cock & Mitwirkende mit finanzieller Unterstützung unserer Patrone ❤️
+founderAndMaintainer: Gründer und Betreuer des Freesewing Projekts
+freesewing: Freesewing
+github: GitHub
+goodbye: Auf Wiedersehen
+happyNewUser: Wir sind sehr glücklich, dass du dich entschieden hast, der Freesewing Community beizutreten. TODO
+helloUsername: 'Hallo {username}'
+iRespectYourDecisionToLeave: 'Ich respektiere deine Entscheidung zu gehen und werde dich nicht weiter behelligen.
+ifThatDoesntWorkCopyPaste: 'Falls die Weiterleitung nicht funktioniert, kannst du den Link in deinen Browser kopieren.' 
+instagram: Instagram
+itSeemsYouForgotYourPassword: Anscheinend hast du dein Passwort vergessen.
+newComment: Neuer Kommentar
 noWorriesClickLinkRegainAccess: 'No worries, simply click the link below to regain access to your account: TODO'
 noteCurrentAddressInCc: 'Note that your current address ({oldAddress}) is in CC. TODO'
 onceYouConfirmNewAddress: 'Once you confirm {newAddress} as your new address, we''ll never E-mail {oldAddress} again. TODO'
