@@ -1,27 +1,27 @@
-ahoyPatron: Ahoy Patron! TODO
-allTheBest: 'All the best, TODO'
-authorCommentedOnYourProfilePage: '{author} commented on your profile page. TODO'
-authorPostedAReply: '{author} posted a reply to your comment: TODO'
-betterToAsk: It's always better to ask than to assume. TODO
-canWeRemainFriends: Can we remain friends? TODO
-chatOnGitter: Chat on Gitter TODO
-confirmEmailAddress: Confirm E-mail address TODO
-consentGiven: Thanks for giving your consent TODO
-consentReminder: 'This is merely a reminder. You can revoke your consent at any time <a href=''https://freesewing.org/account/consent''>in your account settings</a>. TODO'
-credits: Made by Joost De Cock & contributors with the financial support of our patrons ❤️ TODO
-founderAndMaintainer: Founder and maintainer of the freesewing project TODO
-freesewing: Freesewing TODO
-github: GitHub TODO
-goodbye: Goodbye TODO
-happyNewUser: We're so happy you decided to join the freesewing community. TODO
-helloUsername: 'Hello {username} TODO'
-iRespectYourDecisionToLeave: 'I respect your decision to leave, and won''t bother you again. TODO'
-ifThatDoesntWorkCopyPaste: 'If that doesn''t work, you can copy and paste the link in your browser. TODO'
-instagram: Instagram TODO
-itSeemsYouForgotYourPassword: It seems your forgot your password. TODO
-modelConsentGiven: You've given us permission to process your model data. TODO
-newComment: New comment TODO
-noWorriesClickLinkRegainAccess: 'No worries, simply click the link below to regain access to your account: TODO'
+ahoyPatron: 'Ahoi Patron!'
+allTheBest: 'Alles Gute,'
+authorCommentedOnYourProfilePage: '{author} hat deine Profil-Seite kommentiert.'
+authorPostedAReply: '{author} hat auf deinen Kommentar geantwortet:'
+betterToAsk: 'Es ist immer besser nachzufragen, als etwas anzunehmen.'
+canWeRemainFriends: 'Können wir Freunde bleiben?'
+chatOnGitter: 'bei Gitter chatten'
+confirmEmailAddress: 'E-mail Adresse bestätigen'
+consentGiven: 'Vielen Dank für deine Zustimmung'
+consentReminder: 'Dies ist nur eine Erinnerung. Du kannst deine Zustimmung jederzeit unter <a href=''https://freesewing.org/account/consent''>in deinen Account Einstellungen</a> zurückziehen
+credits: 'erstellt von Joost De Cock & Mitwirkenden mit der finanziellen Unterstützung unserer Patrone ❤️'
+founderAndMaintainer: Gründer und Betreuer des Freesewing Projekts.
+freesewing: Freesewing
+github: GitHub
+goodbye: Auf Wiedersehen!
+happyNewUser: Wir sind sehr glücklich, dass du dich entschieden hast der Freesewing-Gemeinschaft beizutreten. 
+helloUsername: 'Hallo {username}'
+iRespectYourDecisionToLeave: 'Ich respektiere deine Entscheidung uns zu verlassen und werde dich nicht weiter stören.'
+ifThatDoesntWorkCopyPaste: 'Falls das nicht funktioniert, kannst du den Link kopieren und in deinem Browser einfügen.'
+instagram: Instagram
+itSeemsYouForgotYourPassword: Anscheinend hast du dein Passwort vergessen.
+modelConsentGiven: Du gibst uns die Erlaubnis die Daten deines Models zu verarbeiten.
+newComment: Neuer Kommentar
+noWorriesClickLinkRegainAccess: 'Keine Sorge, klick einfach nur auf den folgenden Link, um wieder Zugang zu deinem Account zu bekommen.'
 noteCurrentAddressInCc: 'Note that your current address ({oldAddress}) is in CC. TODO'
 onceYouConfirmNewAddress: 'Once you confirm {newAddress} as your new address, we''ll never E-mail {oldAddress} again. TODO'
 orReplyOnline: 'Or, you can reply online TODO'
